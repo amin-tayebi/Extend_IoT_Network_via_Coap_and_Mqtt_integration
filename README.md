@@ -4,6 +4,7 @@
 3-run BROKER
 4-run COAP-MQTT integration module
 5-run subscriber to subscribe the topic in the BROKER
+
 -------------------------------------------------------------------------
 As a part of discovering the services offered by a CoAP server, a client has to learn
 about the endpoint used by a server.
