@@ -1,4 +1,4 @@
-# coap-mqtt-PROTOCOL-integration
+# integration of CoAp and MQTT PROTOCOLs
 1-install eclips include californium
 2-run coap server as a java app in eclips
 3-run a local MQTT-BROKER
