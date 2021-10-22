@@ -13,3 +13,6 @@
 other resources.
 
 - The default port number 5684 for DTLS-secured CoAP MAY be supported by a server for resource discovery and for providing access to other resources. In addition, other endpoints may be hosted at other ports, space.
+
+# Special Thanks
+A special thanks goes to Prof Luca Veltri(https://github.com/thingsstack) and Prof Marco Picone(https://github.com/piconem) for supporting and guidance.
