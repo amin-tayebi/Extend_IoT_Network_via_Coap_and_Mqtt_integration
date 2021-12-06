@@ -1,5 +1,7 @@
 # Integration of CoAp and MQTT PROTOCOLs
 
+A module defined to forward the packet (which generated via COAP server) to the MQTT BROKER. Then each subscriber is able to receive the packet.
+
 1-install eclips include californium
 
 2-run coap server as a java app in eclips
