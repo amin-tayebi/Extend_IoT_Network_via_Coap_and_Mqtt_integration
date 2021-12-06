@@ -1,9 +1,15 @@
 # Integration of CoAp and MQTT PROTOCOLs
+
 1-install eclips include californium
+
 2-run coap server as a java app in eclips
+
 3-run a local MQTT-BROKER
+
 4-run COAP-MQTT integration module
+
 5-run subscriber to subscribe the topic in the MQTT-BROKER
+
 
  The client has to learn about the endpoint used by a server as a part of discovery service offered by a CoAP server.
 
