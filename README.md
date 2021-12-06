@@ -5,7 +5,7 @@
 4-run COAP-MQTT integration module
 5-run subscriber to subscribe the topic in the MQTT-BROKER
 
-# As a part of discovering the services offered by a CoAP server, a client has to learn about the endpoint used by a server.
+ The client has to learn about the endpoint used by a server as a part of discovery service offered by a CoAP server.
 
 - A server is discovered by a client (knowing or) learning a URI that references a resource in the namespace of the server.
 
